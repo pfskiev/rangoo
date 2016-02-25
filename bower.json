@@ -1,0 +1,31 @@
+{
+  "name": "rangoo",
+  "homepage": "https://github.com/pfskiev/rangoo",
+  "authors": [
+    "Constantine Podlesny"
+  ],
+  "description": "django starter app skeleton",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "django",
+    "django-authtools",
+    "python",
+    "bootstrap",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/static/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "lodash": "^4.5.1",
+    "components-font-awesome": "^4.5.0"
+  }
+}
